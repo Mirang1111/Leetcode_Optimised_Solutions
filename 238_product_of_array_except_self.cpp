@@ -1,5 +1,5 @@
 class Solution {   // tc - n 
-// sc - n
+// sc - 1
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int right_array[nums.size()]; // making a right array which contains the multiplication of all the elements 
